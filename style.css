@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(25, 222, 25);
+    text-align: center;
+}
+.bet{
+    background-color: blue;
+    width: 400px;
+    text-align: center;
+    margin: 552px;
+    margin-top: 52px;
+    height: 116;
+    margin-bottom: 43px;
+    border-radius: 5px;
+    color: white;
+}
+.net{
+    width: 451px;
+    height: 777px;
+    background-color: black;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.het{
+    border-radius: 50%;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin-top: 100px auto;
+    margin: 50px auto;
+    border: 5px solid green;
+}
+.yet{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid yellow;
+    margin: 50px auto;
+    margin-top: 100px auto;
+}
+
+.met{
+    border-radius: 50%;
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-top: 100px auto;
+    margin: 50px auto;
+    border: 5px solid red;
+    margin-bottom: 50px;
+    
+}
+
+
